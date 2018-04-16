@@ -27,7 +27,8 @@ Vulnerability #2: __________________
 Vulnerability #1: Username Enumeration
 <a href="https://imgur.com/jw9Mruc"><img src="https://i.imgur.com/jw9Mruc.gif" title="source: imgur.com" /></a>
 
-Vulnerability #2: __________________
+Vulnerability #2: Cross-Site Scripting (XSS)
+<a href="https://imgur.com/jkUahJI"><img src="https://i.imgur.com/jkUahJI.gif" title="source: imgur.com" /></a>
 
 
 ## Red
