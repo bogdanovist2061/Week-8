@@ -1,6 +1,6 @@
 # Project 8 - Pentesting Live Targets
 
-Time spent: **X** hours spent in total
+Time spent: 5 hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
@@ -19,7 +19,8 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 Vulnerability #1: SQL Injection (SQLI)
 <a href="https://imgur.com/EyTJcjm"><img src="https://i.imgur.com/EyTJcjm.gif" title="source: imgur.com" /></a>
 
-Vulnerability #2: __________________
+Vulnerability #2: Session Hijacking
+<a href="https://imgur.com/n7S2ndZ"><img src="https://i.imgur.com/n7S2ndZ.gif" title="source: imgur.com" /></a>
 
 
 ## Green
@@ -41,4 +42,5 @@ Vulnerability #2: __________________
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+I found the CSRF exploit to be quite difficult. I couldn't get it to work on the Red site. I tried posting an HTML form via the Contact
+section, but it didn't seem to have the effect I expected.
