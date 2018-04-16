@@ -31,7 +31,8 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: IDOR
+<a href="https://imgur.com/ZsuJysk"><img src="https://i.imgur.com/ZsuJysk.gif" title="source: imgur.com" /></a>
 
 Vulnerability #2: __________________
 
